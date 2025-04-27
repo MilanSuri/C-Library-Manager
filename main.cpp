@@ -1,9 +1,6 @@
 //
 //  main.cpp
 //  LibraryManager
-//
-//  Created by Milan Suri on 4/25/25.
-//
 
 #include <iostream>
 #include "library.hpp"
