@@ -1,7 +1,5 @@
 # C-Library-Manager
 
-# Library Manager
-
 A simple C++ application for managing a library system. This program allows you to manage books, users, track book availability, and perform book checkouts and returns.
 
 ## Features
